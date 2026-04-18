@@ -10,12 +10,7 @@
 
 ---
 
-## 🛰️ The Lazarus Oracle HUD
-Our front-end is a high-density tactical grid built with **Leaflet.js**, featuring:
-* **Aero Reconstruction:** Mapping 67,000+ flight corridors and 14,000 global airports.
-* **Rail Corridor Predictor:** Reconstructing 10 years of Indian Railway station nodes and schedules.
-* **Maritime Logistics:** Real-time anchoring of global port registries and sea-lane density.
-* **Temporal Displacement:** Visualizing data transitions from 2016 archival states to 2026 predictive models.
+## WEBSITE LINK 
 ---
 
 ## 🛠️ Quick Start for Developers

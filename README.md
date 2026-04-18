@@ -63,7 +63,7 @@ import requests
 
 # Reconstruct Indian Rail Nodes for a specific sector
 URL = "[http://127.0.0.1:8000/api/v1/archive/rail](http://127.0.0.1:8000/api/v1/archive/rail)"
-params = {"query": "HOWRAH"} 
+params = {"query": "DELHI"} 
 
 data = requests.get(URL, params=params).json()
 print(f"Nodes Synchronized: {len(data['nodes'])}")
